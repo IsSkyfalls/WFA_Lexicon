@@ -1,13 +1,13 @@
 [
     {
         "id": 1,
-        "zh": "爆燃喷射器",
-        "en": "Detonite Injector"
+        "zh": "爆燃喷射器*3",
+        "en": "3Detonite Injector"
     },
     {
         "id": 2,
-        "zh": "电磁力场装置",
-        "en": "Fieldron"
+        "zh": "电磁力场装置*3",
+        "en": "3Fieldron"
     },
     {
         "id": 3,
@@ -178,5 +178,20 @@
         "id": 41,
         "zh": "特殊功能槽连接器 蓝图",
         "en": "Exilus Adapter Blueprint"
+    },
+    {
+        "id": 42,
+        "zh": "无",
+        "en": "0cr"
+    },
+    {
+        "id": 43,
+        "zh": "爆燃喷射器",
+        "en": "Detonite Injector"
+    },
+    {
+        "id": 44,
+        "zh": "电磁力场装置",
+        "en": "Fieldron"
     }
 ]
