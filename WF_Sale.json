@@ -15139,5 +15139,19 @@
         "search": "marked_target",
         "zh": "标记目标",
         "en": "Marked Target"
+    },
+    {
+        "id": 2248,
+        "type": "Mod",
+        "search": "zaw_riven_mod_(veiled)",
+        "zh": "Zaw未开紫卡",
+        "en": "Zaw veiled riven mod"
+    }, 
+    {
+        "id": 2249,
+        "type": "Mod",
+        "search": "kitgun_riven_mod_(veiled)",
+        "zh": "自制手枪未开紫卡",
+        "en": "Kitgun veiled riven mod"
     }
 ]
