@@ -11304,10 +11304,10 @@
         "en": "Capture"
     },
     {
-        "id": 1886,
+		"id": 1893,
         "type": "Mission",
-        "zh": "防御",
-        "en": "Defense"
+        "zh": "移动防御",
+        "en": "Mobile Defense"
     },
     {
         "id": 1887,
@@ -11334,16 +11334,22 @@
         "en": "Spy"
     },
     {
+        "id": 1891,
+        "type": "Mission",
+        "zh": "间谍",
+        "en": "Intel"
+    },
+    {
         "id": 1892,
         "type": "Mission",
         "zh": "自由漫步",
-        "en": "Free Roam"
+        "en": "LandScape"
     },
     {
-        "id": 1893,
+        "id": 1886,
         "type": "Mission",
-        "zh": "移动防御",
-        "en": "Mobile Defense"
+        "zh": "防御",
+        "en": "Defense"     
     },
     {
         "id": 1894,
@@ -11385,7 +11391,7 @@
         "id": 1900,
         "type": "Mission",
         "zh": "拦截",
-        "en": "Interception"
+        "en": "Territory"
     },
     {
         "id": 1901,
@@ -14947,19 +14953,19 @@
     {
         "id": 153,
         "type": "Mod",
-        "zh": "近战 裂罅MOD(15p回收)",
+        "zh": "近战 裂罅MOD(15p误)",
         "en": "Veiled Melee Riven Mod"
     },
     {
         "id": 154,
         "type": "Mod",
-        "zh": "手枪 裂罅MOD(15p回收)",
+        "zh": "手枪 裂罅MOD(15p误)",
         "en": "Pistol Riven Mod"
     },
     {
         "id": 157,
         "type": "Mod",
-        "zh": "霰弹枪 裂罅MOD(15p回收)",
+        "zh": "霰弹枪 裂罅MOD(15p误)",
         "en": "Shotgun Riven Mod"
     },
     {
