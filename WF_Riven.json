@@ -4,1959 +4,2223 @@
         "name": "DEX 达克拉双剑",
         "type": "Melee",
         "level": 3,
-        "ratio": 1.15
+        "ratio": 1.15,
+		"search": "dex-dakra"
     },
     {
         "id": 2,
         "name": "三叶坚韧",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "endura"
     },
     {
         "id": 3,
         "name": "佐伦双斧",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.44
+        "ratio": 1.44,
+		"search": "dual-zoren"
     },
     {
         "id": 4,
         "name": "侍刃",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "nikana-prime"
     },
     {
         "id": 5,
         "name": "克洛诺斯",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.48
+        "ratio": 1.48,
+		"search": "cronus"
     },
     {
         "id": 6,
         "name": "克鲁古尔",
         "type": "Melee",
         "level": 3,
-        "ratio": 1.22
+        "ratio": 1.22,
+		"search": "krohkur"
     },
     {
         "id": 7,
         "name": "关刀",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "guandao"
     },
     {
         "id": 8,
         "name": "军扇",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "gunsen"
     },
     {
         "id": 9,
         "name": "凯旋之爪",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "venka-prime"
     },
     {
         "id": 10,
         "name": "凯洛斯特",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.29
+        "ratio": 1.29,
+		"search": "karyst"
     },
     {
         "id": 11,
         "name": "分裂斩斧",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "scindo-prime"
     },
     {
         "id": 12,
         "name": "创伤",
         "type": "Melee",
         "level": 3,
-        "ratio": 1.2
+        "ratio": 1.2,
+		"search": "volnus"
     },
     {
         "id": 13,
         "name": "加扎勒反曲刀",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.35
+        "ratio": 1.35,
+		"search": "gazal-machete"
     },
     {
         "id": 14,
         "name": "勒克塔",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "lecta-secura"
     },
     {
         "id": 15,
         "name": "双头蛇",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.5
+        "ratio": 1.5,
+		"search": "amphis"
     },
     {
         "id": 16,
         "name": "双子克鲁古尔",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.48
+        "ratio": 1.48,
+		"search": "twin-krohkur"
     },
     {
         "id": 17,
         "name": "双子巴萨克",
         "type": "Melee",
         "level": 3,
-        "ratio": 1.18
+        "ratio": 1.18,
+		"search": "twin-basolk"
     },
     {
         "id": 18,
         "name": "双短柄战镰",
         "type": "Melee",
         "level": 2,
-        "ratio": 0.81
+        "ratio": 0.81,
+		"search": "dual-kamas-prime"
     },
     {
         "id": 19,
         "name": "双节尺棍",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.35
+        "ratio": 1.35,
+		"search": "shaku"
     },
     {
         "id": 20,
         "name": "哈利卡",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.44
+        "ratio": 1.44,
+		"search": "galikar"
     },
     {
         "id": 21,
         "name": "喷射战锤",
         "type": "Melee",
         "level": 2,
-        "ratio": 0.75
+        "ratio": 0.75,
+		"search": "jat-kittag"
     },
     {
         "id": 22,
         "name": "喷射锁镰",
         "type": "Melee",
         "level": 2,
-        "ratio": 0.81
+        "ratio": 0.81,
+		"search": "jat-kusar"
     },
     {
         "id": 23,
         "name": "夺魂死神",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.46
+        "ratio": 1.46,
+		"search": "anku"
     },
     {
         "id": 24,
         "name": "奥比克斯",
         "type": "Melee",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "obex-prisma"
     },
     {
         "id": 25,
         "name": "嵴椎节鞭",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.3
+        "ratio": 1.3,
+		"search": "scoliac"
     },
     {
         "id": 26,
         "name": "希芙",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.25
+        "ratio": 1.25,
+		"search": "sheev"
     },
     {
         "id": 27,
         "name": "席瓦 & 神盾",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "silva-aegis-prime"
     },
     {
         "id": 28,
         "name": "弗拉克斯",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.38
+        "ratio": 1.38,
+		"search": "furax-mk1wraith"
     },
     {
         "id": 29,
         "name": "弧电振子锤",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "arca-titron"
     },
     {
         "id": 30,
         "name": "怯薛",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.24
+        "ratio": 1.24,
+		"search": "kesheg"
     },
     {
         "id": 31,
         "name": "恶脓双斧",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.16
+        "ratio": 1.16,
+		"search": "dual-ichor"
     },
     {
         "id": 32,
         "name": "恶龙",
         "type": "Melee",
         "level": 2,
-        "ratio": 0.84
+        "ratio": 0.84,
+		"search": "sydon"
     },
     {
         "id": 33,
         "name": "悲痛之刃",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.31
+        "ratio": 1.31,
+		"search": "lacera"
     },
     {
         "id": 34,
         "name": "憎恨",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.36
+        "ratio": 1.36,
+		"search": "hate"
     },
     {
         "id": 35,
         "name": "战争之剑",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "war"
     },
     {
         "id": 36,
         "name": "执法者",
         "type": "Melee",
         "level": 3,
-        "ratio": 1.09
+        "ratio": 1.09,
+		"search": "magistar-sancti"
     },
     {
         "id": 37,
         "name": "技巧之剑",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.14
+        "ratio": 1.14,
+		"search": "destreza-prime"
     },
     {
         "id": 38,
         "name": "提佩多",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.31
+        "ratio": 1.31,
+		"search": "tipedo"
     },
     {
         "id": 39,
         "name": "救赎者",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.17
+        "ratio": 1.17,
+		"search": "redeemer"
     },
     {
         "id": 40,
         "name": "斩肉双刀",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "dual-cleavers-prisma"
     },
     {
         "id": 41,
         "name": "普罗沃",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.29
+        "ratio": 1.29,
+		"search": "prova-vandal"
     },
     {
         "id": 42,
         "name": "暗黑分合剑",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.21
+        "ratio": 1.21,
+		"search": "dark-split-sword"
     },
     {
         "id": 43,
         "name": "暗黑长剑",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.48
+        "ratio": 1.48,
+		"search": "dark-sword"
     },
     {
         "id": 44,
         "name": "格拉姆",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.44
+        "ratio": 1.44,
+		"search": "gram-prime"
     },
     {
         "id": 45,
         "name": "欧特鲁斯",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "orthos-prime"
     },
     {
         "id": 46,
         "name": "欧玛",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "ohma"
     },
     {
         "id": 47,
         "name": "海波单剑",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.43
+        "ratio": 1.43,
+		"search": "nami-solo"
     },
     {
         "id": 48,
         "name": "海波斯库拉对剑",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.175
+        "ratio": 1.175,
+		"search": "nami-skyla"
     },
     {
         "id": 49,
         "name": "灵枢",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.15
+        "ratio": 1.15,
+		"search": "orvius"
     },
     {
         "id": 50,
         "name": "烈焰短剑",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.44
+        "ratio": 1.44,
+		"search": "heat-dagger"
     },
     {
         "id": 51,
         "name": "牝狮神",
         "type": "Melee",
         "level": 3,
-        "ratio": 0.95
+        "ratio": 0.95,
+		"search": "mios"
     },
     {
         "id": 52,
         "name": "狼牙",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.36
+        "ratio": 1.36,
+		"search": "fang-prime"
     },
     {
         "id": 53,
         "name": "玻之武杖",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.29
+        "ratio": 1.29,
+		"search": "bo-mk1prime"
     },
     {
         "id": 54,
         "name": "甲龙双拳",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.45
+        "ratio": 1.45,
+		"search": "ankyros-prime"
     },
     {
         "id": 55,
         "name": "电能斩锯",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.38
+        "ratio": 1.38,
+		"search": "serro"
     },
     {
         "id": 56,
         "name": "病变",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "lesion"
     },
     {
         "id": 57,
         "name": "皇家拐刃",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.43
+        "ratio": 1.43,
+		"search": "kronen"
     },
     {
         "id": 58,
         "name": "短柄战镰",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.47
+        "ratio": 1.47,
+		"search": "kama"
     },
     {
         "id": 59,
         "name": "破损珽杖",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.19
+        "ratio": 1.19,
+		"search": "broken-scepter"
     },
     {
         "id": 60,
         "name": "破碎的战争之剑",
         "type": "Melee",
         "level": 2,
-        "ratio": 0.79
+        "ratio": 0.79,
+		"search": "broken-war"
     },
     {
         "id": 61,
         "name": "科加基",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.46
+        "ratio": 1.46,
+		"search": "kogake"
     },
     {
         "id": 62,
         "name": "空刃",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.22
+        "ratio": 1.22,
+		"search": "skana-prime-prisma"
     },
     {
         "id": 63,
         "name": "空刃双刀",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.48
+        "ratio": 1.48,
+		"search": "dual-skana"
     },
     {
         "id": 64,
         "name": "红隼",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.45
+        "ratio": 1.45,
+		"search": "kestrel"
     },
     {
         "id": 67,
         "name": "翁",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.31
+        "ratio": 1.31,
+		"search": "okina"
     },
     {
         "id": 68,
         "name": "苍穹之剑",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.44
+        "ratio": 1.44,
+		"search": "ether-sword"
     },
     {
         "id": 69,
         "name": "苍穹匕首",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.49
+        "ratio": 1.49,
+		"search": "ether-daggers"
     },
     {
         "id": 70,
         "name": "苍穹双剑",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.45
+        "ratio": 1.45,
+		"search": "dual-ether"
     },
     {
         "id": 71,
         "name": "苍穹死神",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.45
+        "ratio": 1.45,
+		"search": "ether-reaper"
     },
     {
         "id": 72,
         "name": "蚂蝗",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "hirudo"
     },
     {
         "id": 73,
         "name": "蛇刃",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.24
+        "ratio": 1.24,
+		"search": "sarpa"
     },
     {
         "id": 74,
         "name": "蛇颚刀",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.47
+        "ratio": 1.47,
+		"search": "jaw-sword"
     },
     {
         "id": 75,
         "name": "蜻蛉薙",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.38
+        "ratio": 1.38,
+		"search": "tonbo"
     },
     {
         "id": 76,
         "name": "螺钉拐刃",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "boltace-telos"
     },
     {
         "id": 77,
         "name": "裸鳃刃",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.36
+        "ratio": 1.36,
+		"search": "cerata"
     },
     {
         "id": 78,
         "name": "西伯利亚冰锤",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.35
+        "ratio": 1.35,
+		"search": "sibear"
     },
     {
         "id": 79,
         "name": "认知&冲击",
         "type": "Melee",
         "level": 3,
-        "ratio": 0.9
+        "ratio": 0.9,
+		"search": "ack-brunt"
     },
     {
         "id": 80,
         "name": "赫利俄光锤",
         "type": "Melee",
         "level": 3,
-        "ratio": 0.94
+        "ratio": 0.94,
+		"search": "heliocor-synoid"
     },
     {
         "id": 81,
         "name": "迦伦提恩",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "galatine-prime"
     },
     {
         "id": 82,
         "name": "重击巨锤",
         "type": "Melee",
         "level": 3,
-        "ratio": 0.96
+        "ratio": 0.96,
+		"search": "fragor-prime"
     },
     {
         "id": 83,
         "name": "铁钩手甲",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.4
+        "ratio": 1.4,
+		"search": "tekko"
     },
     {
         "id": 84,
         "name": "锋月双斧",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.4
+        "ratio": 1.4,
+		"search": "dual-raza"
     },
     {
         "id": 85,
         "name": "锐卡斯",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.38
+        "ratio": 1.38,
+		"search": "ripkas"
     },
     {
         "id": 86,
         "name": "阿特拉克斯",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "atterax"
     },
     {
         "id": 87,
         "name": "降灵追猎者",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.41
+        "ratio": 1.41,
+		"search": "ninkondi"
     },
     {
         "id": 88,
         "name": "马谢特砍刀",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.45
+        "ratio": 1.45,
+		"search": "machete-wraith"
     },
     {
         "id": 89,
         "name": "鲮鲤剑",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.47
+        "ratio": 1.47,
+		"search": "pangolin-sword"
     },
     {
         "id": 90,
         "name": "鹤鸵长戟",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "cassowar"
     },
     {
         "id": 91,
         "name": "龙之侍刃",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.35
+        "ratio": 1.35,
+		"search": "dragon-nikana"
     },
     {
         "id": 92,
         "name": "暗黑匕首",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "dark-dagger-rakta"
     },
     {
         "id": 93,
         "name": "烈焰双剑",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.44
+        "ratio": 1.44,
+		"search": "dual heat swords"
     },
     {
         "id": 94,
         "name": "陶瓷匕首",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.43
+        "ratio": 1.43,
+		"search": "ceramic-dagger"
     },
     {
         "id": 95,
         "name": "等离子长剑",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.48
+        "ratio": 1.48,
+		"search": "plasma-sword"
     },
     {
         "id": 96,
         "name": "战刃",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.22
+        "ratio": 1.22,
+		"search": "glaive-prime"
     },
     {
         "id": 97,
         "name": "米尔",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.43
+        "ratio": 1.43,
+		"search": "mire"
     },
     {
         "id": 98,
         "name": "烈焰长剑",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.48
+        "ratio": 1.48,
+		"search": "heat-sword"
     },
     {
         "id": 99,
         "name": "灼蚀变体镰",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.3
+        "ratio": 1.3,
+		"search": "caustacyst"
     },
     {
         "id": 100,
         "name": "西格玛 & 南极座",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "sigma-octantis"
     },
     {
         "id": 102,
         "name": "DEX 席芭莉丝",
         "type": "Rifle",
         "level": 3,
-        "ratio": 0.895
+        "ratio": 0.895,
+		"search": "sybaris-dex-prime"
     },
     {
         "id": 103,
         "name": "伊格尼斯",
         "type": "Rifle",
         "level": 2,
-        "ratio": 0.7
+        "ratio": 0.7,
+		"search": "ignis-wraith"
     },
     {
         "id": 104,
         "name": "伯斯顿",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.175
+        "ratio": 1.175,
+		"search": "burston-prime"
     },
     {
         "id": 105,
         "name": "冷冻光束步枪",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.35
+        "ratio": 1.35,
+		"search": "glaxion"
     },
     {
         "id": 106,
         "name": "卡拉克",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.28
+        "ratio": 1.28,
+		"search": "karak"
     },
     {
         "id": 107,
         "name": "双簧管",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.05
+        "ratio": 1.05,
+		"search": "tenora"
     },
     {
         "id": 108,
         "name": "哈帕克",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.55
+        "ratio": 1.55,
+		"search": "harpak"
     },
     {
         "id": 109,
         "name": "噬菌者",
         "type": "Shotgun",
         "level": 5,
-        "ratio": 1.46
+        "ratio": 1.46,
+		"search": "phage"
     },
     {
         "id": 110,
         "name": "大久和弓",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.21
+        "ratio": 1.21,
+		"search": "daikyu"
     },
     {
         "id": 111,
         "name": "夸塔克",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.25
+        "ratio": 1.25,
+		"search": "quartakk"
     },
     {
         "id": 112,
         "name": "奥堤克光子枪",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.15
+        "ratio": 1.15,
+		"search": "opticor"
     },
     {
         "id": 113,
         "name": "安培克斯",
         "type": "Rifle",
         "level": 2,
-        "ratio": 0.85
+        "ratio": 0.85,
+		"search": "amprex"
     },
     {
         "id": 114,
         "name": "寇恩热能枪",
         "type": "Shotgun",
         "level": 4,
-        "ratio": 1.4
+        "ratio": 1.4,
+		"search": "kohm"
     },
     {
         "id": 115,
         "name": "导热聚焦枪",
         "type": "Shotgun",
         "level": 5,
-        "ratio": 1.46
+        "ratio": 1.46,
+		"search": "convectrix"
     },
     {
         "id": 116,
         "name": "巴兹火枪",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.55
+        "ratio": 1.55,
+		"search": "buzlok"
     },
     {
         "id": 117,
         "name": "布莱顿",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.01
+        "ratio": 1.01,
+		"search": "braton-mk1-vandal-prime"
     },
     {
         "id": 118,
         "name": "帕里斯",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.05
+        "ratio": 1.05,
+		"search": "paris-mk1-prime"
     },
     {
         "id": 119,
         "name": "席芭莉丝",
         "type": "Rifle",
         "level": 2,
-        "ratio": 0.895
+        "ratio": 0.895,
+		"search": "sybaris-dex-prime"
     },
     {
         "id": 120,
         "name": "异融 西诺斯",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.26
+        "ratio": 1.26,
+		"search": "mutalist-cernos"
     },
     {
         "id": 121,
         "name": "异融量子枪",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.55
+        "ratio": 1.55,
+		"search": "mutalist-quanta"
     },
     {
         "id": 122,
         "name": "弧电离子枪",
         "type": "Shotgun",
         "level": 2,
-        "ratio": 0.7
+        "ratio": 0.7,
+		"search": "arca-plasmor"
     },
     {
         "id": 123,
         "name": "征服榴炮",
         "type": "Rifle",
         "level": 1,
-        "ratio": 0.75
+        "ratio": 0.75,
+		"search": "tonkar"
     },
     {
         "id": 124,
         "name": "德拉",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.25
+        "ratio": 1.25,
+		"search": "dera-vandal"
     },
     {
         "id": 125,
         "name": "恐惧",
         "type": "Rifle",
         "level": 2,
-        "ratio": 0.9
+        "ratio": 0.9,
+		"search": "dread"
     },
     {
         "id": 126,
         "name": "托里德",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.2
+        "ratio": 1.2,
+		"search": "torid"
     },
     {
         "id": 127,
         "name": "拉特昂",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.15
+        "ratio": 1.15,
+		"search": "latron-prime-wraith"
     },
     {
         "id": 128,
         "name": "斯特拉迪瓦",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.25
+        "ratio": 1.25,
+		"search": "stradavar"
     },
     {
         "id": 129,
         "name": "斯特朗",
         "type": "Shotgun",
         "level": 5,
-        "ratio": 1.35
+        "ratio": 1.35,
+		"search": "strun-mk1-wraith"
     },
     {
         "id": 130,
         "name": "月神",
         "type": "Rifle",
         "level": 1,
-        "ratio": 0.55
+        "ratio": 0.55,
+		"search": "soma-prime"
     },
     {
         "id": 132,
         "name": "楞次弓",
         "type": "Rifle",
         "level": 3,
-        "ratio": 0.9
+        "ratio": 0.9,
+		"search": "lenz"
     },
     {
         "id": 133,
         "name": "氩格纳克",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "argonak"
     },
     {
         "id": 134,
         "name": "沙皇",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.08
+        "ratio": 1.08,
+		"search": "zarr"
     },
     {
         "id": 135,
         "name": "海克",
         "type": "Shotgun",
         "level": 1,
-        "ratio": 0.55
+        "ratio": 0.55,
+		"search": "hek-vaykor"
     },
     {
         "id": 136,
         "name": "潘塔",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.25
+        "ratio": 1.25,
+		"search": "penta-secura"
     },
     {
         "id": 137,
         "name": "燃焰标枪",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "javlok"
     },
     {
         "id": 138,
         "name": "特拉",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.5
+        "ratio": 1.5,
+		"search": "tetra-prisma"
     },
     {
         "id": 139,
         "name": "狂鲨",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.3
+        "ratio": 1.3,
+		"search": "tiberon"
     },
     {
         "id": 140,
         "name": "猎豹",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.55
+        "ratio": 1.55,
+		"search": "panthera"
     },
     {
         "id": 141,
         "name": "猛虎",
         "type": "Shotgun",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "tigris-prime-sancti"
     },
     {
         "id": 142,
         "name": "碎裂者",
         "type": "Shotgun",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "astilla"
     },
     {
         "id": 143,
         "name": "祸根",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "scourge"
     },
     {
         "id": 145,
         "name": "苍鹰",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "baza"
     },
     {
         "id": 146,
         "name": "苏普拉",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "supra-vandal"
     },
     {
         "id": 147,
         "name": "葛恩火枪",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.245
+        "ratio": 1.245,
+		"search": "grinlok"
     },
     {
         "id": 148,
         "name": "葛拉卡达",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.15
+        "ratio": 1.15,
+		"search": "grakata-prisma"
     },
     {
         "id": 149,
         "name": "蛇发女妖",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.175
+        "ratio": 1.175,
+		"search": "gorgon-prisma-wraith"
     },
     {
         "id": 150,
         "name": "血肢",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "hema"
     },
     {
         "id": 151,
         "name": "西诺斯",
         "type": "Rifle",
         "level": 3,
-        "ratio": 0.92
+        "ratio": 0.92,
+		"search": "cernos-rakta-prime"
     },
     {
         "id": 152,
         "name": "诸葛连弩",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.18
+        "ratio": 1.18,
+		"search": "zhuge"
     },
     {
         "id": 153,
         "name": "通量射线步枪",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.55
+        "ratio": 1.55,
+		"search": "flux-rifle"
     },
     {
         "id": 154,
         "name": "重力奇点拟成枪",
         "type": "Rifle",
         "level": 2,
-        "ratio": 0.7
+        "ratio": 0.7,
+		"search": "simulor-synoid"
     },
     {
         "id": 155,
         "name": "野猪",
         "type": "Shotgun",
         "level": 5,
-        "ratio": 1.34
+        "ratio": 1.34,
+		"search": "boar-prime"
     },
     {
         "id": 156,
         "name": "量子切割器",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "quanta-vandal"
     },
     {
         "id": 157,
         "name": "铁晶磁轨炮",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "ferrox"
     },
     {
         "id": 158,
         "name": "阿提卡",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.415
+        "ratio": 1.415,
+		"search": "attica"
     },
     {
         "id": 159,
         "name": "附肢寄生者",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.315
+        "ratio": 1.315,
+		"search": "paracyst"
     },
     {
         "id": 160,
         "name": "雌鹿",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.42
+        "ratio": 1.42,
+		"search": "hind"
     },
     {
         "id": 161,
         "name": "食人女魔",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.245
+        "ratio": 1.245,
+		"search": "ogris"
     },
     {
         "id": 162,
         "name": "鳄神",
         "type": "Shotgun",
         "level": 4,
-        "ratio": 1.33
+        "ratio": 1.33,
+		"search": "sobek"
     },
     {
         "id": 163,
         "name": "龙骑兵",
         "type": "Shotgun",
         "level": 5,
-        "ratio": 1.48
+        "ratio": 1.48,
+		"search": "drakgoon"
     },
     {
         "id": 164,
         "name": "螺钉步枪",
         "type": "Rifle",
         "level": 2,
-        "ratio": 0.79
+        "ratio": 0.79,
+		"search": "boltor-prime-telos"
     },
     {
         "id": 165,
         "name": "突触生化枪",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.315
+        "ratio": 1.315,
+		"search": "synapse"
     },
     {
         "id": 166,
         "name": "DEX 盗贼双枪",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.39
+        "ratio": 1.39,
+		"search": "afuris-dex"
     },
     {
         "id": 167,
         "name": "丧钟",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1.15
+        "ratio": 1.15,
+		"search": "knell"
     },
     {
         "id": 168,
         "name": "光谱切割器",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.49
+        "ratio": 1.49,
+		"search": "spectra"
     },
     {
         "id": 169,
         "name": "努寇微波枪",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.45
+        "ratio": 1.45,
+		"search": "nukor"
     },
     {
         "id": 170,
         "name": "北海巨妖",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.53
+        "ratio": 1.53,
+		"search": "kraken"
     },
     {
         "id": 171,
         "name": "原子矿融炮",
         "type": "Pistol",
         "level": 2,
-        "ratio": 0.8
+        "ratio": 0.8,
+		"search": "atomos"
     },
     {
         "id": 172,
         "name": "双子寇恩霰机枪",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.2
+        "ratio": 1.2,
+		"search": "twin-kohmak"
     },
     {
         "id": 173,
         "name": "双子小精灵",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.4
+        "ratio": 1.4,
+		"search": "twin-gremlins"
     },
     {
         "id": 174,
         "name": "双子罗格",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1.15
+        "ratio": 1.15,
+		"search": "twin-rogga"
     },
     {
         "id": 175,
         "name": "双子葛拉卡达",
         "type": "Pistol",
         "level": 2,
-        "ratio": 0.85
+        "ratio": 0.85,
+		"search": "twin-grakatas"
     },
     {
         "id": 176,
         "name": "双子蝰蛇",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.41
+        "ratio": 1.41,
+		"search": "twin-vipers-wraith"
     },
     {
         "id": 177,
         "name": "史度巴",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.25
+        "ratio": 1.25,
+		"search": "stubba"
     },
     {
         "id": 178,
         "name": "史提托双枪",
         "type": "Pistol",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "akstiletto-prime"
     },
     {
         "id": 179,
         "name": "史特克",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.48
+        "ratio": 1.48,
+		"search": "stug"
     },
     {
         "id": 180,
         "name": "咖玛腕甲枪",
         "type": "Pistol",
         "level": 1,
-        "ratio": 0.65
+        "ratio": 0.65,
+		"search": "gammacor-synoid"
     },
     {
         "id": 181,
         "name": "啐沫者",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.51
+        "ratio": 1.51,
+		"search": "tysis"
     },
     {
         "id": 183,
         "name": "安柏勒斯",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.45
+        "ratio": 1.45,
+		"search": "embolist"
     },
     {
         "id": 184,
         "name": "安格斯壮",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.4
+        "ratio": 1.4,
+		"search": "angstrum"
     },
     {
         "id": 185,
         "name": "寇恩霰机枪",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.3
+        "ratio": 1.3,
+		"search": "kohmak"
     },
     {
         "id": 186,
         "name": "布拉克",
         "type": "Pistol",
         "level": 2,
-        "ratio": 0.95
+        "ratio": 0.95,
+		"search": "brakk"
     },
     {
         "id": 187,
         "name": "布里斯提卡",
         "type": "Pistol",
         "level": 2,
-        "ratio": 0.95
+        "ratio": 0.95,
+		"search": "ballistica"
     },
     {
         "id": 188,
         "name": "弧电探知者",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "arca-scisco"
     },
     {
         "id": 189,
         "name": "循环离子枪",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "cycron"
     },
     {
         "id": 190,
         "name": "德特昂",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "detron-mara"
     },
     {
         "id": 191,
         "name": "手鼓",
         "type": "Pistol",
         "level": 3,
-        "ratio": 0.95
+        "ratio": 0.95,
+		"search": "pandero"
     },
     {
         "id": 192,
         "name": "拉托双枪",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.52
+        "ratio": 1.52,
+		"search": "aklato"
     },
     {
         "id": 193,
         "name": "方位角",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.25
+        "ratio": 1.25,
+		"search": "azima"
     },
     {
         "id": 194,
         "name": "旋刃飞刀",
         "type": "Pistol",
         "level": 2,
-        "ratio": 0.85
+        "ratio": 0.85,
+		"search": "spira-prime"
     },
     {
         "id": 195,
         "name": "暗杀者",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.3
+        "ratio": 1.3,
+		"search": "sicarus-prime"
     },
     {
         "id": 196,
         "name": "杀星",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1.2
+        "ratio": 1.2,
+		"search": "kulstar"
     },
     {
         "id": 197,
         "name": "毒囊双枪",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.25
+        "ratio": 1.25,
+		"search": "dual-toxocyst"
     },
     {
         "id": 198,
         "name": "毒芽",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "zakti"
     },
     {
         "id": 199,
         "name": "玛瑞火枪",
         "type": "Pistol",
         "level": 1,
-        "ratio": 0.65
+        "ratio": 0.65,
+		"search": "marelok-vaykor"
     },
     {
         "id": 200,
         "name": "瓦斯托",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.4
+        "ratio": 1.4,
+		"search": "vasto-prime"
     },
     {
         "id": 201,
         "name": "瓦斯托双枪",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.3
+        "ratio": 1.3,
+		"search": "akvasto"
     },
     {
         "id": 202,
         "name": "盗贼",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.39
+        "ratio": 1.39,
+		"search": "furis-mk1"
     },
     {
         "id": 203,
         "name": "盗贼双枪",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.39
+        "ratio": 1.39,
+		"search": "afuris-dex"
     },
     {
         "id": 204,
         "name": "绝望",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.3
+        "ratio": 1.3,
+		"search": "despair"
     },
     {
         "id": 205,
         "name": "脓痘",
         "type": "Pistol",
         "level": 2,
-        "ratio": 0.95
+        "ratio": 0.95,
+		"search": "pox"
     },
     {
         "id": 206,
         "name": "苦无",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.51
+        "ratio": 1.51,
+		"search": "kunai-mk1"
     },
     {
         "id": 207,
         "name": "荒谬双枪",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.52
+        "ratio": 1.52,
+		"search": "akzani"
     },
     {
         "id": 208,
         "name": "蝰蛇",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.45
+        "ratio": 1.45,
+		"search": "viper"
     },
     {
         "id": 209,
         "name": "螺钉双枪",
         "type": "Pistol",
         "level": 2,
-        "ratio": 0.8
+        "ratio": 0.8,
+		"search": "akbolto-telos"
     },
     {
         "id": 210,
         "name": "螺钉手枪",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.51
+        "ratio": 1.51,
+		"search": "boltor-prime-telos"
     },
     {
         "id": 211,
         "name": "觉醒双枪",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.43
+        "ratio": 1.43,
+		"search": "akjagara"
     },
     {
         "id": 212,
         "name": "超音波冲击枪",
         "type": "Pistol",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "sonicor"
     },
     {
         "id": 213,
         "name": "轻灵月神双枪",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.2
+        "ratio": 1.2,
+		"search": "aksomati"
     },
     {
         "id": 214,
         "name": "野马",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.3
+        "ratio": 1.3,
+		"search": "bronco-prime"
     },
     {
         "id": 215,
         "name": "野马双枪",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.2
+        "ratio": 1.2,
+		"search": "akbronco-prime"
     },
     {
         "id": 216,
         "name": "锡斯特",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.52
+        "ratio": 1.52,
+		"search": "cestra"
     },
     {
         "id": 217,
         "name": "锡斯特双枪",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.3
+        "ratio": 1.3,
+		"search": "dual-cestra-secura"
     },
     {
         "id": 218,
         "name": "阿克里德",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.33
+        "ratio": 1.33,
+		"search": "acrid"
     },
     {
         "id": 219,
         "name": "雷克斯",
         "type": "Pistol",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "lex-prime"
     },
     {
         "id": 220,
         "name": "雷克斯双枪",
         "type": "Pistol",
         "level": 3,
-        "ratio": 0.92
+        "ratio": 0.92,
+		"search": "aklex-prime"
     },
     {
         "id": 221,
         "name": "雷爆信标",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.35
+        "ratio": 1.35,
+		"search": "castanas-sancti"
     },
     {
         "id": 222,
         "name": "静电能量导引枪",
         "type": "Pistol",
         "level": 1,
-        "ratio": 0.53
+        "ratio": 0.53,
+		"search": "staticor"
     },
     {
         "id": 223,
         "name": "预言者",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.5
+        "ratio": 1.5,
+		"search": "seer"
     },
     {
         "id": 224,
         "name": "飞扬",
         "type": "Pistol",
         "level": 2,
-        "ratio": 0.75
+        "ratio": 0.75,
+		"search": "hikou-prime"
     },
     {
         "id": 225,
         "name": "食人鱼",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "pyrana-prime"
     },
     {
         "id": 226,
         "name": "鹰爪",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.44
+        "ratio": 1.44,
+		"search": "talons"
     },
     {
         "id": 227,
         "name": "麦格努斯",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.53
+        "ratio": 1.53,
+		"search": "magnus"
     },
     {
         "id": 228,
         "name": "麦格努斯双枪",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.28
+        "ratio": 1.28,
+		"search": "akmagnus"
     },
     {
         "id": 229,
         "name": "齐射玻刃",
         "type": "Pistol",
         "level": 4,
-        "ratio": 1.3
+        "ratio": 1.3,
+		"search": "fusilai"
     },
     {
         "id": 230,
         "name": "拉托",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.4
+        "ratio": 1.4,
+		"search": "lato-prime-vandal"
     },
     {
         "id": 231,
         "name": "天顶之星",
         "type": "Melee",
         "level": 1,
-        "ratio": 0.5
+        "ratio": 0.5,
+		"search": "zenistar"
     },
     {
         "id": 232,
         "name": "天穹之顶",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "zenith"
     },
     {
         "id": 233,
         "name": "分离",
         "type": "Melee",
         "level": 3,
-        "ratio": 1.25
+        "ratio": 1.25,
+		"search": "deconstructor"
     },
     {
         "id": 234,
         "name": "扫除者",
         "type": "Shotgun",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "sweeper"
     },
     {
         "id": 235,
         "name": "死亡机枪",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.35
+        "ratio": 1.35,
+		"search": "deth-machine-rifle"
     },
     {
         "id": 236,
         "name": "毒刺",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.31
+        "ratio": 1.31,
+		"search": "stinger"
     },
     {
         "id": 237,
         "name": "激光步枪",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.21
+        "ratio": 1.21,
+		"search": "laser-rifle"
     },
     {
         "id": 238,
         "name": "激光点发",
         "type": "Pistol",
         "level": 5,
-        "ratio": 1.45
+        "ratio": 1.45,
+		"search": "burst-laser-prisma"
     },
     {
         "id": 239,
         "name": "阿塔克斯",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "artax"
     },
     {
         "id": 240,
         "name": "密丸",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "mewan"
     },
     {
         "id": 241,
         "name": "客隆什",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "kronsh"
     },
     {
         "id": 242,
         "name": "乌尔萨",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "ooltha"
     },
     {
         "id": 243,
         "name": "宝拉",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "balla"
     },
     {
         "id": 244,
         "name": "德塔特",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "dehtat"
     },
     {
         "id": 245,
         "name": "瘟疫 克里帕丝",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "plague-kripath"
     },
     {
         "id": 246,
         "name": "瘟疫 奇沃",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "plague-keewar"
     },
     {
         "id": 247,
         "name": "西亚什",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "cyath"
     },
     {
         "id": 248,
         "name": "守望者",
         "type": "Rifle",
         "level": 3,
-        "ratio": 0.92
+        "ratio": 0.92,
+		"search": "vectis-prime"
     },
     {
         "id": 249,
         "name": "金工火神",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.45
+        "ratio": 1.45,
+		"search": "vulkar-wraith"
     },
     {
         "id": 250,
         "name": "金工火枪",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.245
+        "ratio": 1.245,
+		"search": "vulklok"
     },
     {
         "id": 251,
         "name": "狙击特昂",
         "type": "Rifle",
         "level": 4,
-        "ratio": 1.165
+        "ratio": 1.165,
+		"search": "snipetron-vandal"
     },
     {
         "id": 252,
         "name": "科林斯",
         "type": "Shotgun",
         "level": 3,
-        "ratio": 1.05
+        "ratio": 1.05,
+		"search": "corinth"
     },
     {
         "id": 253,
         "name": "悦音 PRIME",
         "type": "Pistol",
         "level": 2,
-        "ratio": 0.7
+        "ratio": 0.7,
+		"search": "euphona-prime"
     },
     {
         "id": 254,
         "name": "绝路",
         "type": "Rifle",
         "level": 3,
-        "ratio": 0.95
+        "ratio": 0.95,
+		"search": "rubico-prime"
     },
     {
         "id": 255,
         "name": "兰卡",
         "type": "Rifle",
         "level": 2,
-        "ratio": 0.95
+        "ratio": 0.95,
+		"search": "lanka"
     },
     {
         "id": 256,
         "name": "达克拉 PRIME",
         "type": "Melee",
         "level": 3,
-        "ratio": 1.15
+        "ratio": 1.15,
+		"search": "dakra-prime"
     },
     {
         "id": 257,
         "name": "收割者 PRIME",
         "type": "Melee",
         "level": 4,
-        "ratio": 1.29
+        "ratio": 1.29,
+		"search": "reaper-prime"
     },
     {
         "id": 258,
-        "name": "猬刺",
+        "name": "豪猪",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1.05
+        "ratio": 1.05,
+		"search": "hystrix"
     },
     {
         "id": 259,
         "name": "双持凯瑞斯",
         "type": "Melee",
         "level": 5,
-        "ratio": 1.48
+        "ratio": 1.48,
+		"search": "dual-keres"
     },
     {
         "id": 260,
         "name": "草原猎手",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1.1
+        "ratio": 1.1,
+		"search": "veldt"
     },
     {
         "id": 261,
         "name": "瑟普梵",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "sepfahn-zaw"
     },
     {
         "id": 262,
         "name": "拉比威",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "rabvee-zaw"
     },
     {
         "id": 263,
         "name": "多克拉姆",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "dokrahm-zaw"
     },
     {
         "id": 264,
         "name": "影生",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "skiajati"
     },
     {
         "id": 265,
         "name": "幻离子",
         "type": "Shotgun",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "phantasma"
     },
     {
         "id": 267,
         "name": "席尔火枪",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "zylok"
     },
     {
         "id": 268,
         "name": "毒囊骨茧",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "pupacyst"
     },
     {
         "id": 269,
         "name": "猎鹰轮",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "falcor"
     },
     {
         "id": 270,
         "name": "心智之殁",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "paracesis"
     },
     {
         "id": 271,
         "name": "噬蛇弩",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "nagantaka"
     },
     {
         "id": 272,
         "name": "武使之力",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "battacor"
     },
     {
         "id": 273,
         "name": "视使之触",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "ocucor"
     },
     {
         "id": 274,
         "name": "直镐",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "kreska"
     },
     {
         "id": 275,
         "name": "米特尔",
         "type": "Rifle",
         "level": 5,
-        "ratio": 1.55
+        "ratio": 1.55,
+		"search": "miter"
     },
     {
         "id": 276,
         "name": "捕月",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "catchmoon"
     },
     {
         "id": 277,
         "name": "凝目",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "gaze"
     },
     {
         "id": 278,
         "name": "响胆",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "rattleguts"
     },
     {
         "id": 279,
         "name": "墓指",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "tombfinger"
     },
     {
         "id": 280,
         "name": "眼镜蛇&鹤",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "cobra-crane"
     },
     {
         "id": 281,
         "name": "EXERGIS",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "exergis"
     },
     {
         "id": 282,
         "name": "PLINX",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "plinx"
     },
     {
         "id": 283,
-        "name": "GALVACORD",
-        "type": "Melee",
-        "level": 3,
-        "ratio": 1
-    },
-    {
-        "id": 284,
-        "name": "沙漠之风",
-        "type": "Melee",
-        "level": 3,
-        "ratio": 1
-    },
-    {
-        "id": 285,
         "name": "电流刺索",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "galvacord"
     },
     {
         "id": 286,
         "name": "晶能放射器",
         "type": "Shotgun",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "exergis"
     },
     {
         "id": 287,
         "name": "漫射者",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1,
+		"search": "plinx"
     }
 ]
