@@ -11306,14 +11306,8 @@
     {
         "id":1893,
         "type":"Mission",
-        "zh":"移动防御",
-        "en":"Mobile Defense"
-    },
-    {
-        "id":1893,
-        "type":"Mission",
-        "zh":"移动防御",
-        "en":"Mobile_Defense"
+        "zh":"移动",
+        "en":"Mobile"
     },
     {
         "id":1887,
