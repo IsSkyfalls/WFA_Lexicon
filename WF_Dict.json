@@ -15002,5 +15002,11 @@
         "type":"Mission",
         "zh":"噩梦",
         "en":"nightmare"
+    },
+    {
+        "id":162,
+        "type":"Word",
+        "zh":"最后一个",
+        "en":"the last standing(lol)"
     }
 ]
