@@ -14996,5 +14996,17 @@
         "type":"AltHelm",
         "zh":"Baruuk 麦罗埃头盔",
         "en":"Baruuk Meroe Helmet Blueprint"
+    },
+    {
+        "id":161,
+        "type":"Mission",
+        "zh":"挖掘",
+        "en":"Evacuation"
+    },
+    {
+        "id":162,
+        "type":"Mission",
+        "zh":"噩梦",
+        "en":"nightmare"
     }
 ]
