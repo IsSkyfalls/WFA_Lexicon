@@ -14408,11 +14408,13 @@
     {
         "id":58,
         "zh":"慑人神速",
+        "type":"Mod",
         "en":"Stunning Speed"
     },
     {
         "id":59,
         "zh":"致命洪流",
+        "type":"Mod",
         "en":"Lethal Torrent"
     },
     {
