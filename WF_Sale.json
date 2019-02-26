@@ -15153,5 +15153,12 @@
         "search": "kitgun_riven_mod_(veiled)",
         "zh": "自制手枪未开紫卡",
         "en": "Kitgun veiled riven mod"
+    },
+    {
+        "id": 1155,
+        "type": "Arcane",
+        "search": "magus_revert",
+        "zh": "魔导 复位",
+        "en": "Magus Revert"
     }
 ]
