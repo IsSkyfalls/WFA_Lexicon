@@ -1,0 +1,74 @@
+[
+  {
+    "name":"Grafitti",
+    "zhName":"",
+    "description":"Deploy a Glyph",
+    "type":"daily"
+  },
+  {
+    "name":"Researcher",
+    "zhName":"",
+    "description":"Scan 25 objects or enemies",
+    "type":"daily"
+  },
+  {
+    "name":"Jailer",
+    "zhName":"",
+    "description":"Complete 3 Capture missions",
+    "type":"weekly"
+  },
+  {
+    "name":"Not a Warning Shot",
+    "zhName":"",
+    "description":"Kill 500 enemies",
+    "type":"weekly"
+  },
+  {
+    "name":"Test Subject",
+    "zhName":"",
+    "description":"Complete 3 waves of Sanctuary Onslaught",
+    "type":"weekly"
+  },
+  {
+    "name":"Animator",
+    "zhName":"",
+    "description":"Fully socket 5 Ayatan sculptures",
+    "type":"weekly"
+  },
+  {
+    "name":"Earth Bounty Hunter",
+    "zhName":"",
+    "description":"Complete 8 Bounties in the Plains of Eidolon",
+    "type":"weekly"
+  },
+  {
+    "name":"Invader",
+    "zhName":"",
+    "description":"Complete 9 Invasion missions",
+    "type":"weekly"
+  },
+  {
+    "name":"Sanctuary Researcher",
+    "zhName":"",
+    "description":"Complete 5 scans for Cephalon Simaris",
+    "type":"weekly"
+  },
+  {
+    "name":"Eximus Executioner",
+    "zhName":"",
+    "description":"Kill 100 Eximus enemies",
+    "type":"weeklyHard"
+  },
+  {
+    "name":"Hydrolyst Hunter",
+    "zhName":"",
+    "description":"Kill or capture an Eidolon Hydrolyst",
+    "type":"weeklyHard"
+  },
+  {
+    "name":"Sortie with Friends",
+    "zhName":"",
+    "description":"Complete a Sortie while playing with a friend or Clan mate",
+    "type":"weeklyHard"
+  }
+]
