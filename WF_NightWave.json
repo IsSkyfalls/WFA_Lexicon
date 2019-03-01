@@ -1,74 +1,74 @@
 [
   {
     "name":"Grafitti",
-    "zhName":"",
-    "description":"Deploy a Glyph",
+    "zhName":"涂鸦",
+    "description":"设置一枚浮印",
     "type":"daily"
   },
   {
     "name":"Researcher",
-    "zhName":"",
-    "description":"Scan 25 objects or enemies",
+    "zhName":"研究者",
+    "description":"扫描25次对象或敌人",
     "type":"daily"
   },
   {
     "name":"Jailer",
-    "zhName":"",
-    "description":"Complete 3 Capture missions",
+    "zhName":"狱吏",
+    "description":"完成3项捕获任务",
     "type":"weekly"
   },
   {
     "name":"Not a Warning Shot",
-    "zhName":"",
-    "description":"Kill 500 enemies",
+    "zhName":"这不是警告射击",
+    "description":"击杀500名敌人",
     "type":"weekly"
   },
   {
     "name":"Test Subject",
-    "zhName":"",
-    "description":"Complete 3 waves of Sanctuary Onslaught",
+    "zhName":"测试对象",
+    "description":"完成3波圣殿突袭",
     "type":"weekly"
   },
   {
     "name":"Animator",
-    "zhName":"",
-    "description":"Fully socket 5 Ayatan sculptures",
+    "zhName":"动像者",
+    "description":"完整插满5座阿耶檀识雕像",
     "type":"weekly"
   },
   {
     "name":"Earth Bounty Hunter",
-    "zhName":"",
-    "description":"Complete 8 Bounties in the Plains of Eidolon",
+    "zhName":"地球赏金猎人",
+    "description":"在夜灵平野完成8项赏金任务",
     "type":"weekly"
   },
   {
     "name":"Invader",
-    "zhName":"",
-    "description":"Complete 9 Invasion missions",
+    "zhName":"入侵者",
+    "description":"完成9项任何类型的入侵任务",
     "type":"weekly"
   },
   {
     "name":"Sanctuary Researcher",
-    "zhName":"",
-    "description":"Complete 5 scans for Cephalon Simaris",
+    "zhName":"圣殿研究者",
+    "description":"完成5个中枢Simaris的扫描",
     "type":"weekly"
   },
   {
     "name":"Eximus Executioner",
-    "zhName":"",
-    "description":"Kill 100 Eximus enemies",
+    "zhName":"卓越处刑者",
+    "description":"击杀100名卓越者",
     "type":"weeklyHard"
   },
   {
     "name":"Hydrolyst Hunter",
-    "zhName":"",
-    "description":"Kill or capture an Eidolon Hydrolyst",
+    "zhName":"水力使猎人",
+    "description":"击杀或捕获一个夜灵水力使",
     "type":"weeklyHard"
   },
   {
     "name":"Sortie with Friends",
-    "zhName":"",
-    "description":"Complete a Sortie while playing with a friend or Clan mate",
+    "zhName":"与友突击",
+    "description":"和朋友或氏族成员完成突击任务",
     "type":"weeklyHard"
   }
 ]
