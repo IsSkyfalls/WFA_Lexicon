@@ -1,72 +1,72 @@
 [
   {
-    "name":"Grafitti",
+    "name":"deployglyph",
     "zhName":"涂鸦",
     "description":"设置一枚浮印",
     "type":"daily"
   },
   {
-    "name":"Researcher",
+    "name":"codexscan",
     "zhName":"研究者",
     "description":"扫描25次对象或敌人",
     "type":"daily"
   },
   {
-    "name":"Jailer",
+    "name":"completecapture",
     "zhName":"狱吏",
     "description":"完成3项捕获任务",
     "type":"weekly"
   },
   {
-    "name":"Not a Warning Shot",
+    "name":"killenemies",
     "zhName":"这不是警告射击",
     "description":"击杀500名敌人",
     "type":"weekly"
   },
   {
-    "name":"Test Subject",
+    "name":"sanctuaryonslaught",
     "zhName":"测试对象",
     "description":"完成3波圣殿突袭",
     "type":"weekly"
   },
   {
-    "name":"Animator",
+    "name":"completetreasures",
     "zhName":"动像者",
     "description":"完整插满5座阿耶檀识雕像",
     "type":"weekly"
   },
   {
-    "name":"Earth Bounty Hunter",
+    "name":"plainsbounties",
     "zhName":"地球赏金猎人",
     "description":"在夜灵平野完成8项赏金任务",
     "type":"weekly"
   },
   {
-    "name":"Invader",
+    "name":"completeinvasionmissions",
     "zhName":"入侵者",
     "description":"完成9项任何类型的入侵任务",
     "type":"weekly"
   },
   {
-    "name":"Sanctuary Researcher",
+    "name":"simarisscan",
     "zhName":"圣殿研究者",
     "description":"完成5个中枢Simaris的扫描",
     "type":"weekly"
   },
   {
-    "name":"Eximus Executioner",
+    "name":"killeximus",
     "zhName":"卓越处刑者",
     "description":"击杀100名卓越者",
     "type":"weeklyHard"
   },
   {
-    "name":"Hydrolyst Hunter",
+    "name":"killorcapturerainalyst",
     "zhName":"水力使猎人",
     "description":"击杀或捕获一个夜灵水力使",
     "type":"weeklyHard"
   },
   {
-    "name":"Sortie with Friends",
+    "name":"hardfriendssortie",
     "zhName":"与友突击",
     "description":"和朋友或氏族成员完成突击任务",
     "type":"weeklyHard"
