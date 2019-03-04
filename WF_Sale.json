@@ -15251,5 +15251,12 @@
         "search": "orvius_disc",
         "zh": "灵枢 圆盘",
         "en": "Orvius Disc"
-	}
+    },
+    {
+        "id": 2291,
+        "type": "Arcane",
+        "search": "magus_lockdown",
+        "zh": "魔导 封锁",
+        "en": "Magus Lockdown"
+    }
 ]
