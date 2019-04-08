@@ -15082,5 +15082,281 @@
         "type": "Other",
         "zh": "铜质库狛半身像",
         "en": "Bronze Kubrow Bust"
-	}
+	},
+    {
+        "id": 2395,
+        "type": "Mod",
+        "zh": "猛烈发狂",
+        "en": "Wild Frenzy"
+    },
+    {
+        "id": 2396,
+        "type": "Mod",
+        "zh": "爆发质量",
+        "en": "Bursting Mass"
+    },
+    {
+        "id": 2397,
+        "type": "Mod",
+        "zh": "凝固汽油榴弹",
+        "en": "Napalm Grenades"
+    },
+    {
+        "id": 2401,
+        "type": "Mod",
+        "zh": "膛室 PRIME",
+        "en": "Primed Chamber"
+    },
+    {
+        "id": 2402,
+        "type": "Word",
+        "zh": "Infested战争",
+        "en": "War on Infested"
+    },
+    {
+        "id": 2403,
+        "type": "Weapon",
+        "zh": "恶狼战锤",
+        "en": "Wolf Sledge"
+    },
+    {
+        "id": 2404,
+        "type": "Warframe",
+        "zh": "HILDRYN",
+        "en": "HILDRYN"
+    },
+    {
+        "id": 2405,
+        "type": "Weapon",
+        "zh": "龙辰",
+        "en": "Tatsu"
+    },
+    {
+        "id": 2406,
+        "type": "Other",
+        "zh": "棱晶 葛恩火枪",
+        "en": "Prisma Grinlok"
+    },
+    {
+        "id": 2407,
+        "type": "Word",
+        "zh": "热美亚裂缝",
+        "en": "Thermia Fractures"
+    },
+    {
+        "id": 2408,
+        "type": "Word",
+        "zh": "行动代号：雪藏的恩怨",
+        "en": "Operation: Buried Debts"
+    },
+    {
+        "id": 2409,
+        "type": "Other",
+        "zh": "BARO KI'TEER 浮印",
+        "en": "Baro Ki'teer Glyph"
+    },
+    {
+        "id": 2410,
+        "type": "Other",
+        "zh": "魔导 超载",
+        "en": "Magus Overload"
+    },
+    {
+        "id": 2411,
+        "type": "Other",
+        "zh": "魔导 干扰",
+        "en": "Magus Glitch"
+    },
+    {
+        "id": 2412,
+        "type": "Other",
+        "zh": "魔导 复位",
+        "en": "Magus Revert"
+    },
+    {
+        "id": 2413,
+        "type": "Other",
+        "zh": "魔导 防火墙",
+        "en": "Magus Firewall"
+    },
+    {
+        "id": 2414,
+        "type": "Other",
+        "zh": "魔导 驱动",
+        "en": "Magus Drive"
+    },
+    {
+        "id": 2415,
+        "type": "Other",
+        "zh": "魔导 封锁",
+        "en": "Magus Lockdown"
+    },
+    {
+        "id": 2416,
+        "type": "Other",
+        "zh": "魔导 穿破",
+        "en": "Magus Destruct"
+    },
+    {
+        "id": 2417,
+        "type": "Other",
+        "zh": "魔导 近点",
+        "en": "Magus Anomaly"
+    },
+    {
+        "id": 2418,
+        "type": "Other",
+        "zh": "魔导 热熔",
+        "en": "Magus Melt"
+    },
+    {
+        "id": 2419,
+        "type": "Other",
+        "zh": "魔导 触媒",
+        "en": "Magus Accelerant"
+    },
+    {
+        "id": 2420,
+        "type": "Other",
+        "zh": "魔导 修复",
+        "en": "Magus Repair"
+    },
+    {
+        "id": 2421,
+        "type": "Mod",
+        "zh": "乘空时间",
+        "en": "Air Time"
+    },
+    {
+        "id": 2422,
+        "type": "Mod",
+        "zh": "轨上燃焰",
+        "en": "Trail Blazer"
+    },
+    {
+        "id": 2423,
+        "type": "Mod",
+        "zh": "磁吸固锁",
+        "en": "Mag Locks"
+    },
+    {
+        "id": 2424,
+        "type": "Mod",
+        "zh": "护轨器",
+        "en": "Rail Guards"
+    },
+    {
+        "id": 2425,
+        "type": "Mod",
+        "zh": "纵横天际",
+        "en": "Poppin Vert"
+    },
+    {
+        "id": 2426,
+        "type": "Mod",
+        "zh": "瞬满",
+        "en": "Pop Top"
+    },
+    {
+        "id": 2427,
+        "type": "Mod",
+        "zh": "完美平衡",
+        "en": "Prefect Balance"
+    },
+    {
+        "id": 2428,
+        "type": "Mod",
+        "zh": "动能摩擦",
+        "en": "Kinetic Friction"
+    },
+    {
+        "id": 2429,
+        "type": "Mod",
+        "zh": "启明物悬浮驱动",
+        "en": "Venerdo Hoverdrive"
+    },
+    {
+        "id": 2430,
+        "type": "Mod",
+        "zh": "惯性减震",
+        "en": "Inertia Dampeners"
+    },
+    {
+        "id": 2431,
+        "type": "Mod",
+        "zh": "斩杀悬浮板",
+        "en": "Slay Board"
+    },
+    {
+        "id": 2432,
+        "type": "Mod",
+        "zh": "冷抵步",
+        "en": "Cold Arrival"
+    },
+    {
+        "id": 2433,
+        "type": "Mod",
+        "zh": "狂堆速",
+        "en": "Mad Stack"
+    },
+    {
+        "id": 2434,
+        "type": "Mod",
+        "zh": "迅逃夭",
+        "en": "Quick Escape"
+    },
+    {
+        "id": 2435,
+        "type": "Mod",
+        "zh": "声波提升",
+        "en": "Sonic Boost"
+    },
+    {
+        "id": 2436,
+        "type": "Mod",
+        "zh": "极限加速",
+        "en": "Extreme Velocity"
+    },
+    {
+        "id": 2437,
+        "type": "Mod",
+        "zh": "氮气喷射",
+        "en": "Nitro Boost"
+    },
+    {
+        "id": 2438,
+        "type": "Mod",
+        "zh": "收尾痛击",
+        "en": "Thrash Landing"
+    },
+    {
+        "id": 2439,
+        "type": "Other",
+        "zh": "Tenno 血缘小地毯",
+        "en": "Tenno Kindred Rug"
+    },
+    {
+        "id": 2440,
+        "type": "Other",
+        "zh": "显赫",
+        "en": "Eminence"
+    },
+    {
+        "id": 2441,
+        "type": "Other",
+        "zh": "SCIMITAR 赛冬尼亚外观",
+        "en": "Scimitar Cydonia Skin"
+    },
+    {
+        "id": 2442,
+        "type": "Weapon",
+        "zh": "翠雀",
+        "en": "Larkspur"
+    },
+    {
+        "id": 2443,
+        "type": "Warframe",
+        "zh": "EQUINOX PRIME",
+        "en": "EQUINOX PRIME"
+    }
 ]
